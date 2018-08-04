@@ -114,5 +114,16 @@ body {
 .button {
     margin-top: 30px;
 }
+
+.nav-item {
+    font-size: 25px;
+    color: black;
+    font-family: sans-serif;
+    
+}
+
+.profile-content, .heading, .side-section, .lastestProject, .side-section-bottom {
+    font-family: sans-serif;
+}
   
     
